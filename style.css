@@ -1,0 +1,12 @@
+.navbar-brand {
+  
+    height: 45px; 
+    background-color: rgb(35, 158, 167); 
+    border: 2px solid lightgray;
+    padding: 7px;
+
+}
+
+#test {
+    border-bottom: 2px solid lightgray;
+}
